@@ -1,3 +1,4 @@
+![](https://github-widgetbox.vercel.app/api/profile?username=ZhouyiStudio&data=followers,repositories,stars,commits)
 ### <img width="180" height="25" src="https://glitch-art.vercel.app/api/simple?word=!Hi%20I'm%20Zhouyi!&font=Doto" /> 👋
 
 <picture>
