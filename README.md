@@ -2,11 +2,11 @@
 ### <img width="180" height="25" src="https://glitch-art.vercel.app/api/simple?word=!Hi%20I'm%20Zhouyi!&font=Doto" /> 👋
 
 <picture>
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ZhouyiStudio&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Zhouyi2013&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
     align="right" />
 </picture>
 
-![Hi!](https://komarev.com/ghpvc/?username=Zhouyi2013&style=for-the-badge&color=red)
+![Hi!](https://komarev.com/ghpvc/?username=ZhouyiStudio&style=for-the-badge&color=red)
 
 **于人间烟火处，独守一隅清欢。**
 
