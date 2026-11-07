@@ -1,4 +1,4 @@
-![](https://github-widgetbox.vercel.app/api/profile?username=ZhouyiStudio&data=followers,repositories,stars,commits)
+![](https://github-widgetbox.vercel.app/api/profile?username=Zhouyi2013&data=followers,repositories,stars,commits)
 ### <img width="180" height="25" src="https://glitch-art.vercel.app/api/simple?word=!Hi%20I'm%20Zhouyi!&font=Doto" /> 👋
 
 <picture>
@@ -6,7 +6,7 @@
     align="right" />
 </picture>
 
-![Hi!](https://komarev.com/ghpvc/?username=ZhouyiStudio&style=for-the-badge&color=red)
+![Hi!](https://komarev.com/ghpvc/?username=Zhouyi2013&style=for-the-badge&color=red)
 
 **于人间烟火处，独守一隅清欢。**
 
